@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: cc9bc2590e1fc934099673579dd8c8a5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hastings
+  fontNames:
+  - Hastings
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8810b1be3c19334459146e6b7fb6e182, type: 3}
+  - {fileID: 12800000, guid: 422696fe3e5b81e48bde22a9eb82b921, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

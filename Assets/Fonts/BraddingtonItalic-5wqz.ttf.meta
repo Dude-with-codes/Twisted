@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b467bcb5bcbd65441b899abb9431bdf2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Braddington
+  fontNames:
+  - Braddington
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 10eb4aa7379980443bec375263a426d6, type: 3}
+  - {fileID: 12800000, guid: 2dad9649802eb6c4497bcfe74d30c507, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

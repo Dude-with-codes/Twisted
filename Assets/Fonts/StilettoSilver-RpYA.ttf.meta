@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cadd3f0bcc7dca0448a610a33f3a43ad
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stiletto
+  fontNames:
+  - Stiletto
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 80f80721c380ff148a17c662e9d6d315, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: cef31208f29789947afdc28d75d31918
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Razorclaw
+  fontNames:
+  - Razorclaw
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 58216c1b386860f489cf99b045a7de63, type: 3}
+  - {fileID: 12800000, guid: 8e45df6be426dcb4ab7c2e60425062b4, type: 3}
+  - {fileID: 12800000, guid: 101e50ec6f38d914c9753174a2472b5a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
